@@ -2,11 +2,15 @@
 
 LSTM Model :
 Training :
+
 Run the train_LSTM_model.ipynb file after installing appropriate librabries which are required.
 
 Generating Music :
+
 Pre- trained model file can be found here : https://drive.google.com/file/d/10Enn08X6JkZqWrFCK94ZXFIVY4gkqg_N/view?usp=sharing
+
 Download this file and then run Generating Music/LSTM Model/ music_gen_generate_midi.ipynb file  
+
 This should generate a midi file which will stored in the same folder
 
 Autoencoder Model :
